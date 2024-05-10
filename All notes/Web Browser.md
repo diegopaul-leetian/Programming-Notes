@@ -1,0 +1,1 @@
+A request is send to the [[Web Server]] then sent back to the browser. The browser displays the contents of the page.

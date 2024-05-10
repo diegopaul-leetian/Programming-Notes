@@ -1,0 +1,2 @@
+Web servers consists of files that is found in a website.
+Web servers are computers waiting tirelessly waiting for requests from web browsers in forms of web pages, images, sounds, video, etc. When a server gets a request for any of these resources, the server finds the resource, and then sends it back to the browser.
